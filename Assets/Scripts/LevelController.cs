@@ -7,4 +7,8 @@ public class LevelController : MonoBehaviour
     [SerializeField] GameObject object01 = null;
     [SerializeField] GameObject object02 = null;
 
+    void Start()
+    {
+
+    }
 }
